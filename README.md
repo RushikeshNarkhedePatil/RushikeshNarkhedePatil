@@ -12,9 +12,8 @@ C, C++, Java, HTML, CSS, Python, Android, PHP, Angular,MYSQL,MongoDb
 
 
 ## 🌍 Connect Here
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-narkhede-96aa5712b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4ZTK%2FcbSReWY1W2fO5bygQ%3D%3D)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RushiNarkhede?t=Y2xbvCY3cdKNoL_sIQf6hQ&s=08)
 
 
 
