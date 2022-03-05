@@ -5,7 +5,6 @@
 ## 🚀 Personal About Me
 - 👀 I’m interested in Learning new Technology
 - 🌱 I’m currently Pursuing MCA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:- rushikeshnarkhede4@gmail.com
 ## ⚡ Technologies
 C, C++, Java, HTML, CSS, Python, Android, PHP, Angular,MYSQL,MongoDb
