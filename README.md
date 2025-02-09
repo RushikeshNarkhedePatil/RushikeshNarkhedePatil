@@ -1,6 +1,6 @@
 # (नमस्कार 🙏 मी ऋषिकेश नारखेडे) Hi, I'm Rushikesh Narkhede! 👋
 # 💫 About Me:
-👀 I’m interested in Learning new Technology<br>🌱 I’m currently Pursuing MCA<br>📫 How to reach me:- rushikeshnarkhede4@gmail.com
+👀 I’m interested in Learning new Technology<br>🌱 I’m currently Working as C# Developer<br>📫 How to reach me:- rushikeshnarkhede4@gmail.com
 
 
 ## 🌐 Socials:
