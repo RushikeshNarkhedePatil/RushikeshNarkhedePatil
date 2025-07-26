@@ -28,18 +28,11 @@ A general-purpose **vision inspection software** used for detecting defects and 
 - Reduced processing time and optimized image handling
 
 ### ✅ **Counting Machine**
-An automated vision-based system that uses **Baumer laser sensors** for real-time part counting and depth verification.
+An automated vision-based system that uses Count multiple types of part in real time.
 
-- Created custom laser profiler workflows
-- Solved depth calibration and laser data alignment issues
-- Enabled high-speed part tracking and report logging
-
-### ✅ **3D Laser Measurement System**
-Worked on a project involving **3D laser triangulation** for precision measurements and object profiling.
-
-- Integrated laser sensor SDKs and developed processing pipeline
-- Implemented accurate 3D profiling algorithms using HALCON
-- Delivered real-time visualization in WPF UI
+- Create seprate project for counting machine.
+- Create counting machine project using halcon deep counting madel.
+- integrate halcon code inside C# and provide standard user interface.
 
 ---
 
