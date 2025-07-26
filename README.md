@@ -1,6 +1,5 @@
 # (नमस्कार 🙏 मी ऋषिकेश नारखेडे) Hi, I'm Rushikesh Narkhede! 👋
 # 💫 About Me:
-# 👋 Hi, I'm Rushikesh Narkhede
 
 ### 💼 Software Developer | C# WPF Expert | Exploring Generative AI
 
