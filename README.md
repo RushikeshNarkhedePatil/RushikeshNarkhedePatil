@@ -29,10 +29,7 @@ A general-purpose **vision inspection software** used for detecting defects and 
 
 ### ✅ **Counting Machine**
 An automated vision-based system that uses Count multiple types of part in real time.
-
-- Create seprate project for counting machine.
 - Create counting machine project using halcon deep counting madel.
-- integrate halcon code inside C# and provide standard user interface.
 
 ---
 
