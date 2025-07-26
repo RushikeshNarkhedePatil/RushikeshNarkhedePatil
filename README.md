@@ -1,6 +1,67 @@
 # (नमस्कार 🙏 मी ऋषिकेश नारखेडे) Hi, I'm Rushikesh Narkhede! 👋
 # 💫 About Me:
-👀 I’m interested in Learning new Technology<br>🌱 I’m currently Working as C# Developer<br>📫 How to reach me:- rushikeshnarkhede4@gmail.com
+# 👋 Hi, I'm Rushikesh Narkhede
+
+### 💼 Software Developer | C# WPF Expert | Exploring Generative AI
+
+I am a passionate software developer with 3+ years of experience in developing desktop applications using **C#, WPF, Prism, Halcon**, and various database technologies. I'm currently working at **Varad Automation and Robotics Pvt. Ltd.**, where I contribute to the development of advanced vision-based industrial automation products.
+
+---
+
+## 🧠 Skills & Technologies
+
+- **Languages**: C#, C, C++, Java, JavaScript, TypeScript
+- **Frameworks**: WPF, Prism, Angular
+- **Databases**: MySQL, SQLite, MongoDB
+- **Tools & Others**: Git, Visual Studio, HALCON, Infragistics, Machine Vision
+- **Currently Learning**: Generative AI (LLMs, prompt engineering, diffusion models, transformers)
+
+---
+
+## 🔧 Projects & Work Experience
+
+### ✅ **Visimaster**
+A general-purpose **vision inspection software** used for detecting defects and performing measurements on industrial parts like bearings, O-rings, and threaded components.
+
+- Developed multiple inspection workflows (traditional + deep learning)
+- Integrated OCR, calibration, measurement, and reporting modules
+- Reduced processing time and optimized image handling
+
+### ✅ **Counting Machine**
+An automated vision-based system that uses **Baumer laser sensors** for real-time part counting and depth verification.
+
+- Created custom laser profiler workflows
+- Solved depth calibration and laser data alignment issues
+- Enabled high-speed part tracking and report logging
+
+### ✅ **3D Laser Measurement System**
+Worked on a project involving **3D laser triangulation** for precision measurements and object profiling.
+
+- Integrated laser sensor SDKs and developed processing pipeline
+- Implemented accurate 3D profiling algorithms using HALCON
+- Delivered real-time visualization in WPF UI
+
+---
+
+## 🌱 Currently Learning
+
+I'm diving into the world of **Generative AI**, including:
+- LLMs (GPT, LLaMA, etc.)
+- Image generation models (DALL·E, Stable Diffusion)
+- Prompt engineering and fine-tuning
+- Applying AI concepts to vision systems
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: rushikeshnarkhede4@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/rushikesh-narkhede]([https://www.linkedin.com/in/rushikesh-narkhede](https://www.linkedin.com/in/rushikeshnarkhede/))
+- 🌐 Portfolio (coming soon)
+
+Thanks for visiting my profile!
+
+
 
 
 ## 🌐 Socials:
